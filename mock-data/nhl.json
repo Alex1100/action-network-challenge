@@ -1,0 +1,290 @@
+{
+    "meta": {
+        "id": 3,
+        "sport": "hockey",
+        "name": "nhl",
+        "description": "National Hockey League",
+        "logo": "https://static.sprtactn.co/leagues/500/nhl.png"
+    },
+    "teams": [
+        {
+            "id": 227,
+            "full_name": "Buffalo Sabres",
+            "display_name": "Buffalo",
+            "abbr": "BUF",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/buf.png",
+            "primary_color": "002E62",
+            "secondary_color": "FDBB2F"
+        },
+        {
+            "id": 228,
+            "full_name": "Chicago Blackhawks",
+            "display_name": "Chicago",
+            "abbr": "CHI",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/chi.png",
+            "primary_color": "E3263A",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 223,
+            "full_name": "Anaheim Ducks",
+            "display_name": "Anaheim",
+            "abbr": "ANA",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/ana.png",
+            "primary_color": "000000",
+            "secondary_color": "91764B"
+        },
+        {
+            "id": 226,
+            "full_name": "Minnesota Wild",
+            "display_name": "Minnesota",
+            "abbr": "MIN",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/min.png",
+            "primary_color": "025736",
+            "secondary_color": "BF2B37"
+        },
+        {
+            "id": 242,
+            "full_name": "Washington Capitals",
+            "display_name": "Washington",
+            "abbr": "WSH",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/wsh.png",
+            "primary_color": "CF132B",
+            "secondary_color": "00214E"
+        },
+        {
+            "id": 233,
+            "full_name": "Boston Bruins",
+            "display_name": "Boston",
+            "abbr": "BOS",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/bos.png",
+            "primary_color": "000000",
+            "secondary_color": "FFC422"
+        },
+        {
+            "id": 221,
+            "full_name": "Calgary Flames",
+            "display_name": "Calgary",
+            "abbr": "CGY",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/cgy.png",
+            "primary_color": "E03A3E",
+            "secondary_color": "FFC758"
+        },
+        {
+            "id": 225,
+            "full_name": "Colorado Avalanche",
+            "display_name": "Colorado",
+            "abbr": "COL",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/col.png",
+            "primary_color": "8B2942",
+            "secondary_color": "01548A"
+        },
+        {
+            "id": 224,
+            "full_name": "Dallas Stars",
+            "display_name": "Dallas",
+            "abbr": "DAL",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/dal.png",
+            "primary_color": "006A4E",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 222,
+            "full_name": "Edmonton Oilers",
+            "display_name": "Edmonton",
+            "abbr": "EDM",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/edm.png",
+            "primary_color": "003777",
+            "secondary_color": "E66A20"
+        },
+        {
+            "id": 240,
+            "full_name": "Columbus Blue Jackets",
+            "display_name": "Columbus",
+            "abbr": "CBJ",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/cbj.png",
+            "primary_color": "00285C",
+            "secondary_color": "E03A3E"
+        },
+        {
+            "id": 244,
+            "full_name": "Carolina Hurricanes",
+            "display_name": "Carolina",
+            "abbr": "CAR",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/car.png",
+            "primary_color": "E03A3E",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 236,
+            "full_name": "Montreal Canadiens",
+            "display_name": "Montreal",
+            "abbr": "MTL",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/mtl.png",
+            "primary_color": "BF2F38",
+            "secondary_color": "213770"
+        },
+        {
+            "id": 238,
+            "full_name": "Florida Panthers",
+            "display_name": "Florida",
+            "abbr": "FLA",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/fla.png",
+            "primary_color": "C8213F",
+            "secondary_color": "002E5F"
+        },
+        {
+            "id": 239,
+            "full_name": "New Jersey Devils",
+            "display_name": "New Jersey",
+            "abbr": "NJ",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/nj.png",
+            "primary_color": "E03A3E",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 217,
+            "full_name": "Los Angeles Kings",
+            "display_name": "Los Angeles",
+            "abbr": "LA",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/la.png",
+            "primary_color": "000000",
+            "secondary_color": "AFB7BA"
+        },
+        {
+            "id": 232,
+            "full_name": "Detroit Red Wings",
+            "display_name": "Detroit",
+            "abbr": "DET",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/det.png",
+            "primary_color": "EC1F26",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 235,
+            "full_name": "Toronto Maple Leafs",
+            "display_name": "Toronto",
+            "abbr": "TOR",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/tord.png",
+            "primary_color": "003777",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 237,
+            "full_name": "Tampa Bay Lightning",
+            "display_name": "Tampa Bay",
+            "abbr": "TB",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/tbd.png",
+            "primary_color": "013E7D",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 220,
+            "full_name": "Vancouver Canucks",
+            "display_name": "Vancouver",
+            "abbr": "VAN",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/van.png",
+            "primary_color": "07346F",
+            "secondary_color": "047A4A"
+        },
+        {
+            "id": 219,
+            "full_name": "San Jose Sharks",
+            "display_name": "San Jose",
+            "abbr": "SJ",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/sj.png",
+            "primary_color": "05535D",
+            "secondary_color": "F38F20"
+        },
+        {
+            "id": 230,
+            "full_name": "Ottawa Senators",
+            "display_name": "Ottawa",
+            "abbr": "OTT",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/ott.png",
+            "primary_color": "E4173E",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 231,
+            "full_name": "St. Louis Blues",
+            "display_name": "St. Louis",
+            "abbr": "STL",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/stl.png",
+            "primary_color": "0546A0",
+            "secondary_color": "FFC325"
+        },
+        {
+            "id": 229,
+            "full_name": "Nashville Predators",
+            "display_name": "Nashville",
+            "abbr": "NSH",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/nsh.png",
+            "primary_color": "FDBB2F",
+            "secondary_color": "002E62"
+        },
+        {
+            "id": 243,
+            "full_name": "New York Rangers",
+            "display_name": "NY Rangers",
+            "abbr": "NYR",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/nyr.png",
+            "primary_color": "0161AB",
+            "secondary_color": "E6393F"
+        },
+        {
+            "id": 245,
+            "full_name": "Philadelphia Flyers",
+            "display_name": "Philadelphia",
+            "abbr": "PHI",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/phi.png",
+            "primary_color": "F47940",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 241,
+            "full_name": "New York Islanders",
+            "display_name": "NY Islanders",
+            "abbr": "NYI",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/nyi.png",
+            "primary_color": "00529B",
+            "secondary_color": "F57D31"
+        },
+        {
+            "id": 234,
+            "full_name": "Winnipeg Jets",
+            "display_name": "Winnipeg",
+            "abbr": "WPG",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/wpg.png",
+            "primary_color": "002E62",
+            "secondary_color": "0168AB"
+        },
+        {
+            "id": 246,
+            "full_name": "Pittsburgh Penguins",
+            "display_name": "Pittsburgh",
+            "abbr": "PIT",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/pit.png",
+            "primary_color": "000000",
+            "secondary_color": "D1BD80"
+        },
+        {
+            "id": 218,
+            "full_name": "Arizona Coyotes",
+            "display_name": "Arizona",
+            "abbr": "ARI",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/ari.png",
+            "primary_color": "841F27",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 1345,
+            "full_name": "Vegas Golden Knights",
+            "display_name": "Vegas",
+            "abbr": "LV",
+            "logo": "https://static.sprtactn.co/teamlogos/nhl/100/lv.png",
+            "primary_color": "010101",
+            "secondary_color": "B4975A"
+        }
+    ]
+}

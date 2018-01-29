@@ -1,0 +1,231 @@
+div.star-favorited {
+   margin: 50px 0px;
+   position: relative;
+   display: inline-block;
+   color: gold;
+   width: 0px;
+   height: 0px;
+   top: -60px;
+   right: -260px;
+   border-right:  100px solid transparent;
+   border-bottom: 70px  solid gold;
+   border-left:   100px solid transparent;
+   -moz-transform:    rotate(35deg) scale(.2);
+   -webkit-transform: rotate(35deg) scale(.2);
+   -ms-transform:     rotate(35deg) scale(.2);
+   -o-transform:      rotate(35deg) scale(.2);
+}
+
+div.star-favorited:before {
+   border-bottom: 80px solid gold;
+   border-left: 30px solid transparent;
+   border-right: 30px solid transparent;
+   position: absolute;
+   height: 0;
+   width: 0;
+   top: -45px;
+   left: -65px;
+   display: block;
+   content: '';
+   -webkit-transform: rotate(-35deg);
+   -moz-transform:    rotate(-35deg);
+   -ms-transform:     rotate(-35deg);
+   -o-transform:      rotate(-35deg);
+}
+
+div.star-favorited:after {
+   position: absolute;
+   display: block;
+   color: transparent;
+   top: 3px;
+   left: -105px;
+   width: 0px;
+   height: 0px;
+   border-right: 100px solid transparent;
+   border-bottom: 70px solid gold;
+   border-left: 100px solid transparent;
+   -webkit-transform: rotate(-70deg);
+   -moz-transform:    rotate(-70deg);
+   -ms-transform:     rotate(-70deg);
+   -o-transform:      rotate(-70deg);
+   content: '';
+}
+
+div.star-unfavorited {
+   margin: 50px 0px;
+   position: relative;
+   display: inline-block;
+   color: transparent;
+   width: 0px;
+   height: 0px;
+   top: -60px;
+   right: -260px;
+   border-right:  100px solid transparent;
+   border-bottom: 70px  solid grey;
+   border-left:   100px solid transparent;
+   -moz-transform:    rotate(35deg) scale(.2);
+   -webkit-transform: rotate(35deg) scale(.2);
+   -ms-transform:     rotate(35deg) scale(.2);
+   -o-transform:      rotate(35deg) scale(.2);
+}
+
+div.star-unfavorited:before {
+   border-bottom: 80px solid grey;
+   border-left: 30px solid transparent;
+   border-right: 30px solid transparent;
+   position: absolute;
+   height: 0;
+   width: 0;
+   top: -45px;
+   left: -65px;
+   display: block;
+   content: '';
+   -webkit-transform: rotate(-35deg);
+   -moz-transform:    rotate(-35deg);
+   -ms-transform:     rotate(-35deg);
+   -o-transform:      rotate(-35deg);
+}
+
+div.star-unfavorited:after {
+   position: absolute;
+   display: block;
+   color: transparent;
+   top: 3px;
+   left: -105px;
+   width: 0px;
+   height: 0px;
+   border-right: 100px solid transparent;
+   border-bottom: 70px solid grey;
+   border-left: 100px solid transparent;
+   -webkit-transform: rotate(-70deg);
+   -moz-transform:    rotate(-70deg);
+   -ms-transform:     rotate(-70deg);
+   -o-transform:      rotate(-70deg);
+   content: '';
+}
+
+.search-container {
+  width: auto;
+  height: auto;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.search-results-container {
+  display: block;
+  position: relative;
+  height: auto;
+  width: auto;
+  padding-top: 40px;
+}
+
+
+.searched-teams-container {
+  display: block;
+  position: relative;
+  height: auto;
+  width: 50%;
+  margin: 0 auto;
+  border: groove grey 2px;
+  border-radius: 6px;
+}
+
+.team-info {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 70px;
+}
+
+.team-info:hover {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 70px;
+  background-color: #f5f9fe;
+}
+
+.team-container {
+  display: block;
+  position: relative;
+  height: 70px;
+}
+
+.team-image {
+  display: block;
+  position: relative;
+  text-align: left;
+}
+
+.team-image > img {
+  width: 60px;
+  display: inline-block;
+  position: relative;
+  top: 5px;
+}
+
+.team-name {
+  display: block;
+  position: relative;
+  margin: -40px 80px;
+  font-size: 130%;
+  text-align: left;
+}
+
+p.team-name > img {
+  width: 60px;
+}
+
+
+.search-input-container {
+  display: block;
+  position: relative;
+  width: 35%;
+  /*background-color: green;*/
+  margin: 0 auto;
+}
+
+.search-input-container > input {
+  display: inline-block;
+  position: relative;
+  width: 92%;
+  /*background-color: red;*/
+}
+
+span.glyphicon.glyphicon-search {
+  display: inline-block;
+  position: relative;
+  width: 20px;
+  top: 0px;
+  left: -25px;
+  margin: 10px 0px auto;
+  height: 30px;
+  color: #3c86e7;
+}
+
+.no-results-container {
+  display: block;
+  position: relative;
+  width: 350px;
+  margin: 0 auto;
+  height: 335px;
+  border: solid 2px grey;
+  border-radius: 2px;
+  background-color: #ececec;
+}
+
+.no-results-text {
+  color: #330e12;
+  font-size: 120%;
+}
+
+
+.no-results-img {
+  display: block;
+  position: relative;
+  background-size: cover;
+  width: 346px;
+  height: 298px;
+}

@@ -1,0 +1,299 @@
+{
+    "meta": {
+        "id": 1,
+        "sport": "football",
+        "name": "nfl",
+        "description": "National Football League",
+        "logo": "https://static.sprtactn.co/leagues/500/nfl.png"
+    },
+    "teams": [
+        {
+            "id": 130,
+            "full_name": "Cleveland Browns",
+            "display_name": "Browns",
+            "abbr": "CLE",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/cle.png",
+            "primary_color": "FB4F14",
+            "secondary_color": "22150C"
+        },
+        {
+            "id": 126,
+            "full_name": "Miami Dolphins",
+            "display_name": "Dolphins",
+            "abbr": "MIA",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/mia.png",
+            "primary_color": "008E97",
+            "secondary_color": "F58220"
+        },
+        {
+            "id": 143,
+            "full_name": "Chicago Bears",
+            "display_name": "Bears",
+            "abbr": "CHI",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/chi.png",
+            "primary_color": "0B162A",
+            "secondary_color": "C83803"
+        },
+        {
+            "id": 140,
+            "full_name": "Dallas Cowboys",
+            "display_name": "Cowboys",
+            "abbr": "DAL",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/dal.png",
+            "primary_color": "002244",
+            "secondary_color": "B0B7BC"
+        },
+        {
+            "id": 136,
+            "full_name": "Denver Broncos",
+            "display_name": "Broncos",
+            "abbr": "DEN",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/den.png",
+            "primary_color": "002244",
+            "secondary_color": "FB4F14"
+        },
+        {
+            "id": 133,
+            "full_name": "Indianapolis Colts",
+            "display_name": "Colts",
+            "abbr": "IND",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/ind.png",
+            "primary_color": "002C5F",
+            "secondary_color": "A5ACAF"
+        },
+        {
+            "id": 134,
+            "full_name": "Jacksonville Jaguars",
+            "display_name": "Jaguars",
+            "abbr": "JAC",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/jac.png",
+            "primary_color": "000000",
+            "secondary_color": "006778"
+        },
+        {
+            "id": 135,
+            "full_name": "Tennessee Titans",
+            "display_name": "Titans",
+            "abbr": "TEN",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/ten.png",
+            "primary_color": "002244",
+            "secondary_color": "4B92DB"
+        },
+        {
+            "id": 151,
+            "full_name": "Atlanta Falcons",
+            "display_name": "Falcons",
+            "abbr": "ATL",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/atl.png",
+            "primary_color": "A71930",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 150,
+            "full_name": "Carolina Panthers",
+            "display_name": "Panthers",
+            "abbr": "CAR",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/car.png",
+            "primary_color": "0085CA",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 147,
+            "full_name": "Green Bay Packers",
+            "display_name": "Packers",
+            "abbr": "GB",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/gb.png",
+            "primary_color": "203731",
+            "secondary_color": "FFB612"
+        },
+        {
+            "id": 148,
+            "full_name": "Minnesota Vikings",
+            "display_name": "Vikings",
+            "abbr": "MIN",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/min.png",
+            "primary_color": "4F2683",
+            "secondary_color": "FFC62F"
+        },
+        {
+            "id": 125,
+            "full_name": "Buffalo Bills",
+            "display_name": "Bills",
+            "abbr": "BUF",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/buf.png",
+            "primary_color": "00338D",
+            "secondary_color": "C60C30"
+        },
+        {
+            "id": 146,
+            "full_name": "Detroit Lions",
+            "display_name": "Lions",
+            "abbr": "DET",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/det.png",
+            "primary_color": "005A8B",
+            "secondary_color": "B0B7BC"
+        },
+        {
+            "id": 128,
+            "full_name": "Cincinnati Bengals",
+            "display_name": "Bengals",
+            "abbr": "CIN",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/cin.png",
+            "primary_color": "000000",
+            "secondary_color": "FB4F14"
+        },
+        {
+            "id": 139,
+            "full_name": "Kansas City Chiefs",
+            "display_name": "Chiefs",
+            "abbr": "KC",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/kc.png",
+            "primary_color": "E31837",
+            "secondary_color": "FFB612"
+        },
+        {
+            "id": 145,
+            "full_name": "Washington Redskins",
+            "display_name": "Redskins",
+            "abbr": "WAS",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/was.png",
+            "primary_color": "773141",
+            "secondary_color": "FFB612"
+        },
+        {
+            "id": 251,
+            "full_name": "Los Angeles Rams",
+            "display_name": "Rams",
+            "abbr": "LA",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/la.png",
+            "primary_color": "002244",
+            "secondary_color": "B3995D"
+        },
+        {
+            "id": 154,
+            "full_name": "San Francisco 49ers",
+            "display_name": "49ers",
+            "abbr": "SF",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/sf.png",
+            "primary_color": "AA0000",
+            "secondary_color": "B3995D"
+        },
+        {
+            "id": 149,
+            "full_name": "Tampa Bay Buccaneers",
+            "display_name": "Buccaneers",
+            "abbr": "TB",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/tb.png",
+            "primary_color": "D50A0A",
+            "secondary_color": "34302B"
+        },
+        {
+            "id": 141,
+            "full_name": "Oakland Raiders",
+            "display_name": "Raiders",
+            "abbr": "OAK",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/oak.png",
+            "primary_color": "A5ACAF",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 127,
+            "full_name": "New York Jets",
+            "display_name": "Jets",
+            "abbr": "NYJ",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/nyjd.png",
+            "primary_color": "203731",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 142,
+            "full_name": "Philadelphia Eagles",
+            "display_name": "Eagles",
+            "abbr": "PHI",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/phi.png",
+            "primary_color": "004953",
+            "secondary_color": "A5ACAF"
+        },
+        {
+            "id": 144,
+            "full_name": "New York Giants",
+            "display_name": "Giants",
+            "abbr": "NYG",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/nygd.png",
+            "primary_color": "0B2265",
+            "secondary_color": "A71930"
+        },
+        {
+            "id": 152,
+            "full_name": "New Orleans Saints",
+            "display_name": "Saints",
+            "abbr": "NO",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/no.png",
+            "primary_color": "9F8958",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 156,
+            "full_name": "Seattle Seahawks",
+            "display_name": "Seahawks",
+            "abbr": "SEA",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/sea.png",
+            "primary_color": "002244",
+            "secondary_color": "69BE28"
+        },
+        {
+            "id": 132,
+            "full_name": "Pittsburgh Steelers",
+            "display_name": "Steelers",
+            "abbr": "PIT",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/pit.png",
+            "primary_color": "000000",
+            "secondary_color": "FFB612"
+        },
+        {
+            "id": 153,
+            "full_name": "Arizona Cardinals",
+            "display_name": "Cardinals",
+            "abbr": "ARI",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/ari.png",
+            "primary_color": "97233F",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 131,
+            "full_name": "Baltimore Ravens",
+            "display_name": "Ravens",
+            "abbr": "BAL",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/bal.png",
+            "primary_color": "241773",
+            "secondary_color": "000000"
+        },
+        {
+            "id": 129,
+            "full_name": "New England Patriots",
+            "display_name": "Patriots",
+            "abbr": "NE",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/ne.png",
+            "primary_color": "002244",
+            "secondary_color": "C60C30"
+        },
+        {
+            "id": 137,
+            "full_name": "Houston Texans",
+            "display_name": "Texans",
+            "abbr": "HOU",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/hou.png",
+            "primary_color": "03202F",
+            "secondary_color": "A71930"
+        },
+        {
+            "id": 1325,
+            "full_name": "Los Angeles Chargers",
+            "display_name": "Chargers",
+            "abbr": "LAC",
+            "logo": "https://static.sprtactn.co/teamlogos/nfl/100/sd.png",
+            "primary_color": "002244",
+            "secondary_color": "0073CF"
+        }
+    ]
+}

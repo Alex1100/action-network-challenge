@@ -1,0 +1,281 @@
+{
+    "meta": {
+        "id": 4,
+        "sport": "basketball",
+        "name": "nba",
+        "description": "Men's National Basketball Association",
+        "logo": "https://static.sprtactn.co/leagues/500/nba.png"
+    },
+    "teams": [
+        {
+            "id": 182,
+            "full_name": "Golden State Warriors",
+            "display_name": "Warriors",
+            "abbr": "GSW",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/gsw.png",
+            "primary_color": "FDB927",
+            "secondary_color": "006BB6"
+        },
+        {
+            "id": 159,
+            "full_name": "Atlanta Hawks",
+            "display_name": "Hawks",
+            "abbr": "ATL",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/atl.png",
+            "primary_color": "E13A3E",
+            "secondary_color": "C4D600"
+        },
+        {
+            "id": 183,
+            "full_name": "Phoenix Suns",
+            "display_name": "Suns",
+            "abbr": "PHX",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/phx.png",
+            "primary_color": "E56020",
+            "secondary_color": "1D1160"
+        },
+        {
+            "id": 164,
+            "full_name": "Boston Celtics",
+            "display_name": "Celtics",
+            "abbr": "BOS",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/bos.png",
+            "primary_color": "008348",
+            "secondary_color": "BB9753"
+        },
+        {
+            "id": 165,
+            "full_name": "Brooklyn Nets",
+            "display_name": "Nets",
+            "abbr": "BKN",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/bkn.png",
+            "primary_color": "061922",
+            "secondary_color": "cb0436"
+        },
+        {
+            "id": 174,
+            "full_name": "Denver Nuggets",
+            "display_name": "Nuggets",
+            "abbr": "DEN",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/den.png",
+            "primary_color": "4D90CD",
+            "secondary_color": "FDB927"
+        },
+        {
+            "id": 184,
+            "full_name": "Los Angeles Clippers",
+            "display_name": "Clippers",
+            "abbr": "LAC",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/lac.png",
+            "primary_color": "ED174C",
+            "secondary_color": "006BB6"
+        },
+        {
+            "id": 157,
+            "full_name": "Washington Wizards",
+            "display_name": "Wizards",
+            "abbr": "WAS",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/wsh.png",
+            "primary_color": "002B5C",
+            "secondary_color": "E31837"
+        },
+        {
+            "id": 180,
+            "full_name": "Dallas Mavericks",
+            "display_name": "Mavericks",
+            "abbr": "DAL",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/dal.png",
+            "primary_color": "007DC5",
+            "secondary_color": "C4CED3"
+        },
+        {
+            "id": 160,
+            "full_name": "Miami Heat",
+            "display_name": "Heat",
+            "abbr": "MIA",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/mia.png",
+            "primary_color": "98002E",
+            "secondary_color": "F9A01B"
+        },
+        {
+            "id": 186,
+            "full_name": "Los Angeles Lakers",
+            "display_name": "Lakers",
+            "abbr": "LAL",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/lal.png",
+            "primary_color": "FDB927",
+            "secondary_color": "552582"
+        },
+        {
+            "id": 178,
+            "full_name": "Houston Rockets",
+            "display_name": "Rockets",
+            "abbr": "HOU",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/hou.png",
+            "primary_color": "CE1141",
+            "secondary_color": "C4CED3"
+        },
+        {
+            "id": 177,
+            "full_name": "Memphis Grizzlies",
+            "display_name": "Grizzlies",
+            "abbr": "MEM",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/mem.png",
+            "primary_color": "0F586C",
+            "secondary_color": "7399C6"
+        },
+        {
+            "id": 181,
+            "full_name": "San Antonio Spurs",
+            "display_name": "Spurs",
+            "abbr": "SAS",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/sas.png",
+            "primary_color": "BAC3C9",
+            "secondary_color": "061922"
+        },
+        {
+            "id": 173,
+            "full_name": "Utah Jazz",
+            "display_name": "Jazz",
+            "abbr": "UTA",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/utah.png",
+            "primary_color": "002B5C",
+            "secondary_color": "F9A01B"
+        },
+        {
+            "id": 166,
+            "full_name": "Toronto Raptors",
+            "display_name": "Raptors",
+            "abbr": "TOR",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/tor.png",
+            "primary_color": "CE1141",
+            "secondary_color": "061922"
+        },
+        {
+            "id": 158,
+            "full_name": "Charlotte Hornets",
+            "display_name": "Hornets",
+            "abbr": "CHA",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/cha.png",
+            "primary_color": "1D1160",
+            "secondary_color": "008CA8"
+        },
+        {
+            "id": 169,
+            "full_name": "Chicago Bulls",
+            "display_name": "Bulls",
+            "abbr": "CHI",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/chi.png",
+            "primary_color": "CE1141",
+            "secondary_color": "061922"
+        },
+        {
+            "id": 167,
+            "full_name": "Cleveland Cavaliers",
+            "display_name": "Cavaliers",
+            "abbr": "CLE",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/cle.png",
+            "primary_color": "860038",
+            "secondary_color": "FDBB30"
+        },
+        {
+            "id": 170,
+            "full_name": "Detroit Pistons",
+            "display_name": "Pistons",
+            "abbr": "DET",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/det.png",
+            "primary_color": "ED174C",
+            "secondary_color": "006BB6"
+        },
+        {
+            "id": 168,
+            "full_name": "Indiana Pacers",
+            "display_name": "Pacers",
+            "abbr": "IND",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/ind.png",
+            "primary_color": "FFC633",
+            "secondary_color": "00275D"
+        },
+        {
+            "id": 172,
+            "full_name": "Milwaukee Bucks",
+            "display_name": "Bucks",
+            "abbr": "MIL",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/mil.png",
+            "primary_color": "00471B",
+            "secondary_color": "F0EBD2"
+        },
+        {
+            "id": 171,
+            "full_name": "Minnesota Timberwolves",
+            "display_name": "Timberwolves",
+            "abbr": "MIN",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/min.png",
+            "primary_color": "005083",
+            "secondary_color": "00A94F"
+        },
+        {
+            "id": 175,
+            "full_name": "Oklahoma City Thunder",
+            "display_name": "Thunder",
+            "abbr": "OKC",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/okc.png",
+            "primary_color": "007DC3",
+            "secondary_color": "F05133"
+        },
+        {
+            "id": 176,
+            "full_name": "Portland Trail Blazers",
+            "display_name": "Trail Blazers",
+            "abbr": "POR",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/por.png",
+            "primary_color": "E03A3E",
+            "secondary_color": "BAC3C9"
+        },
+        {
+            "id": 185,
+            "full_name": "Sacramento Kings",
+            "display_name": "Kings",
+            "abbr": "SAC",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/sac.png",
+            "primary_color": "724C9F",
+            "secondary_color": "8E9090"
+        },
+        {
+            "id": 162,
+            "full_name": "New York Knicks",
+            "display_name": "Knicks",
+            "abbr": "NYK",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/ny.png",
+            "primary_color": "006BB6",
+            "secondary_color": "F58426"
+        },
+        {
+            "id": 163,
+            "full_name": "Philadelphia 76ers",
+            "display_name": "76ers",
+            "abbr": "PHI",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/phi.png",
+            "primary_color": "ED174C",
+            "secondary_color": "006BB6"
+        },
+        {
+            "id": 161,
+            "full_name": "Orlando Magic",
+            "display_name": "Magic",
+            "abbr": "ORL",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/orl.png",
+            "primary_color": "007DC5",
+            "secondary_color": "C4CED3"
+        },
+        {
+            "id": 179,
+            "full_name": "New Orleans Pelicans",
+            "display_name": "Pelicans",
+            "abbr": "NOP",
+            "logo": "https://static.sprtactn.co/teamlogos/nba/100/no.png",
+            "primary_color": "002B5C",
+            "secondary_color": "E31837"
+        }
+    ]
+}

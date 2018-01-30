@@ -229,3 +229,127 @@ span.glyphicon.glyphicon-search {
   width: 346px;
   height: 298px;
 }
+
+
+
+
+
+/* Media Queries */
+@media (max-width: 500px) {
+  div.star-favorited {
+   margin: 50px 0px;
+   position: relative;
+   display: inline-block;
+   color: gold;
+   width: 0px;
+   height: 0px;
+   top: -55px;
+   right: -130px;
+   border-right:  100px solid transparent;
+   border-bottom: 70px  solid gold;
+   border-left:   100px solid transparent;
+   -moz-transform:    rotate(35deg) scale(.2);
+   -webkit-transform: rotate(35deg) scale(.2);
+   -ms-transform:     rotate(35deg) scale(.2);
+   -o-transform:      rotate(35deg) scale(.2);
+  }
+
+  div.star-favorited:before {
+     border-bottom: 80px solid gold;
+     border-left: 30px solid transparent;
+     border-right: 30px solid transparent;
+     position: absolute;
+     height: 0;
+     width: 0;
+     top: -45px;
+     left: -65px;
+     display: block;
+     content: '';
+     -webkit-transform: rotate(-35deg);
+     -moz-transform:    rotate(-35deg);
+     -ms-transform:     rotate(-35deg);
+     -o-transform:      rotate(-35deg);
+  }
+
+  div.star-favorited:after {
+     position: absolute;
+     display: block;
+     color: transparent;
+     top: 3px;
+     left: -105px;
+     width: 0px;
+     height: 0px;
+     border-right: 100px solid transparent;
+     border-bottom: 70px solid gold;
+     border-left: 100px solid transparent;
+     -webkit-transform: rotate(-70deg);
+     -moz-transform:    rotate(-70deg);
+     -ms-transform:     rotate(-70deg);
+     -o-transform:      rotate(-70deg);
+     content: '';
+  }
+
+
+  div.star-unfavorited {
+     margin: 50px 0px;
+     position: relative;
+     display: inline-block;
+     color: transparent;
+     width: 0px;
+     height: 0px;
+     top: -55px;
+     right: -130px;
+     border-right:  100px solid transparent;
+     border-bottom: 70px  solid grey;
+     border-left:   100px solid transparent;
+     -moz-transform:    rotate(35deg) scale(.2);
+     -webkit-transform: rotate(35deg) scale(.2);
+     -ms-transform:     rotate(35deg) scale(.2);
+     -o-transform:      rotate(35deg) scale(.2);
+  }
+
+  div.star-unfavorited:before {
+     border-bottom: 80px solid grey;
+     border-left: 30px solid transparent;
+     border-right: 30px solid transparent;
+     position: absolute;
+     height: 0;
+     width: 0;
+     top: -45px;
+     left: -65px;
+     display: block;
+     content: '';
+     -webkit-transform: rotate(-35deg);
+     -moz-transform:    rotate(-35deg);
+     -ms-transform:     rotate(-35deg);
+     -o-transform:      rotate(-35deg);
+  }
+
+  div.star-unfavorited:after {
+     position: absolute;
+     display: block;
+     color: transparent;
+     top: 3px;
+     left: -105px;
+     width: 0px;
+     height: 0px;
+     border-right: 100px solid transparent;
+     border-bottom: 70px solid grey;
+     border-left: 100px solid transparent;
+     -webkit-transform: rotate(-70deg);
+     -moz-transform:    rotate(-70deg);
+     -ms-transform:     rotate(-70deg);
+     -o-transform:      rotate(-70deg);
+     content: '';
+  }
+
+  .searched-teams-container {
+    display: block;
+    position: relative;
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+    border: groove grey 2px;
+    border-radius: 6px;
+  }
+}
